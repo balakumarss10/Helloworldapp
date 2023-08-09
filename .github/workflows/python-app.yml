@@ -3,7 +3,7 @@ name: Python Deployment Pipeline
 on:
   push:
     branches:
-      - main
+      - mainmaster
 
 jobs:
   build-and-deploy:
